@@ -4,4 +4,8 @@ second line
 
 third line
 
+<<<<<<< HEAD
 fifth line
+=======
+fourth line
+>>>>>>> 20293611351658c5578d699f44996a8de1dd46e2
