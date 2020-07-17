@@ -5,12 +5,4 @@ second line
 
 third line
 
-<<<<<<< HEAD
-fifth line
-=======
-fourth line
-<<<<<<< HEAD
-
-=======
->>>>>>> 20293611351658c5578d699f44996a8de1dd46e2
->>>>>>> 4fd718960f4bef540a91a207e063d31031074151
+final commit
